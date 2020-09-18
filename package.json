@@ -1,0 +1,12 @@
+{
+  "name": "koa-sample-decorator",
+  "version": "1.0.0",
+  "description": "koa decorator",
+  "main": "src/index.js",
+  "repository": "https://github.com/Chengchcc/koa-sample-decorator.git",
+  "author": "Chen Cheng",
+  "license": "MIT",
+  "dependencies": {
+    "koa-router": "^9.4.0"
+  }
+}
