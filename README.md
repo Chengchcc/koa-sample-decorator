@@ -1,7 +1,7 @@
 # koa sample decorator
 ES7 decorators for koa-router
 
-##　Usage
+## Usage
 ### Example
 > middleware.js
 ```js
